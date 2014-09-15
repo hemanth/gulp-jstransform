@@ -1,6 +1,6 @@
 {
   "name": "gulp-jstransform",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gulp plugin to transform ES6 to ES5",
   "main": "index.js",
   "scripts": {
