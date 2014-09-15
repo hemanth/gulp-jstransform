@@ -24,10 +24,11 @@
   },
   "homepage": "https://github.com/hemanth/gulp-jstransform",
   "dependencies": {
-    "gulp-util": "~2.2.5",
-    "event-stream": "~3.0.20",
-    "map-stream": "0.0.4",
-    "jstransform": "^4.0.0"
+    "event-stream": "^3.1.7",
+    "gulp-util": "^3.0.1",
+    "jstransform": "^6.2.0",
+    "map-stream": "^0.1.0",
+    "mocha": "^1.21.4"
   },
   "devDependencies": {
     "mocha": "*"
