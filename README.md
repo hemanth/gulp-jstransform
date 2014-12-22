@@ -3,7 +3,7 @@
 ## Usage
 
 ```javascript
-var jstransform = require('gulp-jstransfrom');
+var jstransform = require('gulp-jstransform');
 
 gulp.task('jstransform', function() {
   gulp.src('./src/*.js')
