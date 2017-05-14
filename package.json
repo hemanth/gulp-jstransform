@@ -31,6 +31,6 @@
     "mocha": "^1.21.4"
   },
   "devDependencies": {
-    "mocha": "*"
+    "mocha": "3.4.1"
   }
 }
